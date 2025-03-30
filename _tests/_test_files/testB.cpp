@@ -300,8 +300,8 @@ int main(int argc, char **argv)
   // test_crash();
   // test_shuntingyard();
   // test_string();
-  // test_interactive();
+   test_interactive();
   // test_error_handling();
-  test_batch();
+  //test_batch();
   return RUN_ALL_TESTS();
 }
