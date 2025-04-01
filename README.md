@@ -38,14 +38,14 @@ The project is organized into modular directories, each responsible for a specif
 
 
 1. Right-click `CMakeLists.txt` → `Clean Reconfigure All Projects`
-<img src="src/Screenshot 2025-03-30 at 4.46.02 PM.png" alt="Setup Screenshot" width="50%" />
-<img src="src/Screenshot 2025-03-30 at 4.46.16 PM.png" alt="Setup Screenshot" width="50%" />
+<img src="src/Screenshot 2025-03-30 at 4.46.02 PM.png" alt="Setup Screenshot" width="30%" />
+<img src="src/Screenshot 2025-03-30 at 4.46.16 PM.png" alt="Setup Screenshot" width="30%" />
 
 2. Click the **Play (▶️)** button on the bottom bar
-<img src="src/Screenshot 2025-03-30 at 4.48.59 PM.png" alt="Setup Screenshot" />
+<img src="src/Screenshot 2025-03-30 at 4.48.59 PM.png" alt="Setup Screenshot" width="50%" />
 
-3. Select `testB` to run your tests
-<img src="src/Screenshot 2025-03-30 at 4.49.43 PM.png" alt="Setup Screenshot" />
+3. Select `testB` to run the program interactively
+<img src="src/Screenshot 2025-03-30 at 4.49.43 PM.png" alt="Setup Screenshot" width="50%" />
 
 ## 💬  Quick Tutorial
 
